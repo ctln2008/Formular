@@ -1,0 +1,18 @@
+body {
+    background-color:rgb(168, 245, 245);
+}
+form{
+    width: 250px;
+    background-color:beige;
+    margin:0 auto;
+}
+input {
+    background-color: rgb(147, 249, 215);
+    border: none;
+    border-radius: 5px;
+}
+button {
+    background-color: rgb(9, 93, 65);
+    width: 168px;
+    color:white;
+}
